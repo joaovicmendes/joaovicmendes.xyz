@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>joaovicmendes.xyz</title>
-    <link>https://joaovicmedes.github.io/</link>
+    <link>https://joaovicmedes.github.io/joaovicmendes.xyz/</link>
     <description>Recent content on joaovicmendes.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jun 2023 16:28:40 -0300</lastBuildDate><atom:link href="https://joaovicmedes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jun 2023 16:28:40 -0300</lastBuildDate><atom:link href="https://joaovicmedes.github.io/joaovicmendes.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World!</title>
-      <link>https://joaovicmedes.github.io/blog/hello-world/</link>
+      <link>https://joaovicmedes.github.io/joaovicmendes.xyz/blog/hello-world/</link>
       <pubDate>Sun, 18 Jun 2023 16:28:40 -0300</pubDate>
       
-      <guid>https://joaovicmedes.github.io/blog/hello-world/</guid>
+      <guid>https://joaovicmedes.github.io/joaovicmendes.xyz/blog/hello-world/</guid>
       <description>Hello, World! This is just an attempt to write a post using gohugo.io and GitHub Pages.</description>
     </item>
     
