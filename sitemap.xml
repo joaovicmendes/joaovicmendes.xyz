@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joaovicmedes.github.io/joaovicmendes.xyz/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2023-06-18T16:28:40-03:00</lastmod>
   </url><url>
-    <loc>https://joaovicmedes.github.io/joaovicmendes.xyz/blog/hello-world/</loc>
+    <loc>/blog/hello-world/</loc>
     <lastmod>2023-06-18T16:28:40-03:00</lastmod>
   </url><url>
-    <loc>https://joaovicmedes.github.io/joaovicmendes.xyz/</loc>
+    <loc>/</loc>
     <lastmod>2023-06-18T16:28:40-03:00</lastmod>
   </url><url>
-    <loc>https://joaovicmedes.github.io/joaovicmendes.xyz/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://joaovicmedes.github.io/joaovicmendes.xyz/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
