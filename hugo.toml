@@ -1,0 +1,4 @@
+baseURL = 'https://joaovicmedes.github.io/'
+languageCode = 'en-us'
+title = 'joaovicmendes.xyz'
+theme =  'PaperMod'
