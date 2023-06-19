@@ -6,14 +6,26 @@
     <description>Recent content on João Victor Mendes Freire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jun 2023 16:28:40 -0300</lastBuildDate><atom:link href="https://joaovicmendes.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jun 2023 12:17:32 -0300</lastBuildDate><atom:link href="https://joaovicmendes.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World!</title>
-      <link>https://joaovicmendes.xyz/blog/hello-world/</link>
-      <pubDate>Sun, 18 Jun 2023 16:28:40 -0300</pubDate>
+      <link>https://joaovicmendes.xyz/posts/hello-world/</link>
+      <pubDate>Mon, 19 Jun 2023 12:17:32 -0300</pubDate>
       
-      <guid>https://joaovicmendes.xyz/blog/hello-world/</guid>
-      <description>Hello, World! This is just an attempt to write a post using gohugo.io and GitHub Pages.</description>
+      <guid>https://joaovicmendes.xyz/posts/hello-world/</guid>
+      <description>This is the first post on my personal portfolio/website/blog/not sure yet what this will be!
+tl;dr: I&amp;rsquo;m a software engineer passionate about technology. I&amp;rsquo;ve created this blog to post some info about me and to write about projects, guides, and suggestions. I might write some opinions once in a while.
+Consider reading a bit more about me.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://joaovicmendes.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joaovicmendes.xyz/about/</guid>
+      <description>Bio I&amp;rsquo;m a Software Engineer with a degree in Computer Science from Universidade Federal de São Carlos, UFSCar. Eager to learn about new technologies, leadership and to expand knowledge of performance optimization, reliability, and software engineering.
+My professional work has been mostly on the Android operating system (Java), back-end development (C++, Java, TypeScript) and more recently mobile (Android, Kotlin). I have touched front-end code (React, Redux and JavaScript) and did some (this is being generous) data analysis (Python, Google Colab).</description>
     </item>
     
   </channel>
