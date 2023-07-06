@@ -19,7 +19,7 @@ Currently: diving into the [Rust](https://www.rust-lang.org/) ecosystem.
 - Software Engineer Intern @ Motorola Mobility (Jan 21 - Jul 21)
 
 ### Contact
-- mendesjoaovic@gmail.com
+- joao@oaoj.xyz
 - [github](https://github.com/joaovicmendes)
 - [linkedin](https://www.linkedin.com/in/joaovicmendes/)
 - [mastodon](https://mastodon.social/@joaovicmendes)
