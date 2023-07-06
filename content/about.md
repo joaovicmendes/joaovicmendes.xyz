@@ -22,4 +22,5 @@ Currently: diving into the [Rust](https://www.rust-lang.org/) ecosystem.
 - mendesjoaovic@gmail.com
 - [github](https://github.com/joaovicmendes)
 - [linkedin](https://www.linkedin.com/in/joaovicmendes/)
-- [twitter](https://twitter.com/joaovicmendes) (not a lot of tech stuff)
+- [mastodon](https://mastodon.social/@joaovicmendes)
+- [bird site](https://twitter.com/joaovicmendes)
