@@ -18,4 +18,5 @@ Currently: diving into the [Rust](https://www.rust-lang.org/) ecosystem.
 - [github](https://github.com/joaovicmendes)
 - [linkedin](https://www.linkedin.com/in/joaovicmendes/)
 - [mastodon](https://mastodon.social/@joaovicmendes)
+- [blue sky](https://bsky.app/profile/joaovicmendes.bsky.social)
 - [bird site](https://twitter.com/joaovicmendes)
