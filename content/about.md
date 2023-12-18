@@ -14,7 +14,7 @@ During my professional career I've dabbled in a variety of languages and technol
 I have *touched* front-end code (JS, React) and worked a bit with data analysis (Python, Colab) and creating some complex metrics queries (SQL, some custom Google frameworks).
 
 ### Contact
-- [joao@oaoj.xyz](maito:joao@oaoj.xyz)
+- [joao@oaoj.xyz](mailto:joao@oaoj.xyz)
 - [github](https://github.com/joaovicmendes)
 - [blue sky](https://bsky.app/profile/joaovicmendes.bsky.social)
 - [linkedin](https://www.linkedin.com/in/joaovicmendes/)
