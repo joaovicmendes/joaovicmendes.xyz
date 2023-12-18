@@ -11,7 +11,7 @@ I'm João Victor, a Brazilian programmer with a Computer Science degree from [Un
 
 During my professional career I've dabbled in a variety of languages and technologies. Most of my work has been in the Android operating system (using Java and Kotlin) and back-end development (Java, Kotlin, TypeScript, C++).
 
-I have *touched* front-end code (JS, React) and worked a bit with data analysis (Python, Colab) and creating some complex metrics queries (SQL, some custom Google frameworks).
+I have *touched* front-end code (JS, React) and worked a bit with data analysis (Python, Colab). I've also created some metrics dashboards (SQL, some custom Google frameworks).
 
 ### Contact
 - [joao@oaoj.xyz](mailto:joao@oaoj.xyz)
