@@ -1,5 +1,5 @@
 baseURL = 'https://joaovicmendes.xyz/'
 languageCode = 'en-us'
-title = 'joão victor mendes'
-theme =  'PaperMod'
+title = 'João'
+theme = 'PaperMod'
 sectionPagesMenu = 'main'
