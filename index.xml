@@ -6,7 +6,17 @@
     <description>Recent content on joaovicmendes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2023 12:17:32 -0300</lastBuildDate><atom:link href="https://joaovicmendes.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2023 16:25:23 -0300</lastBuildDate><atom:link href="https://joaovicmendes.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stuff 2023</title>
+      <link>https://joaovicmendes.xyz/posts/stuff-2023/</link>
+      <pubDate>Mon, 18 Dec 2023 16:25:23 -0300</pubDate>
+      
+      <guid>https://joaovicmendes.xyz/posts/stuff-2023/</guid>
+      <description>This is a recap of stuff I read, played, watched, and studied during the year 2023. Under each section, there will be a small summary of my favorite stuff in that category. The Programming section lists some of the technical material I&amp;rsquo;ve used this year. The Entertainment sections lists other stuff.
+Programming Books Code Complete, by Steve McConnell Design Patterns, by Erich Gamma, Grady Booch, Richard Helm, Ralph Johnson, John Vlissides The Rust Programming Language, by Steve Klabnik and Carol Nichols Zero to Production in Rust, by Luca Palmieri This year I finally started to learn about Rust.</description>
+    </item>
+    
     <item>
       <title>Hello, World!</title>
       <link>https://joaovicmendes.xyz/posts/hello-world/</link>
