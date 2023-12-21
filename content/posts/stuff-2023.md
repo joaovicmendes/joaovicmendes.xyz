@@ -1,7 +1,7 @@
 ---
 title: "Stuff 2023"
 date: 2023-12-18T16:25:23-03:00
-draft: true
+draft: false
 ---
 
 This is a recap of stuff I read, played, watched, and studied during the year 2023. Under each section, there will be a small summary of my favorite stuff in that category. The [`Programming`](#programming) section lists some of the technical material I've used this year. The [`Entertainment`](#Entertainment) sections lists other stuff.
