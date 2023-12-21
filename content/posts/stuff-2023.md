@@ -31,7 +31,7 @@ I also wanted to highlight some other written material that was very insightful 
 
 ## Projects
 
-This was not a year were I worked on any particular side project. I want to change that going into 2024.
+This was not a year where I've worked on any particular side project. I want to change that going into 2024.
 
 ## And Beyond
 
@@ -41,4 +41,4 @@ There are two new languages I want to learn about: Go and Scala. From what I've 
 
 I also want to learn a build system. Probably Basel, to use some of what I've learned in my job. Understanding gRPC more deeply would also be very cool. I would like to learn either some iOS development or React Native. I'm not promising to dive deep into any of these, but I might do an API using Go + gRPC + Bazel (maybe add a mobile client to it).
 
-Thats all I had to say (or had the motivation to write) about the previous year. Thanks for taking the time to read this!
+That's all I had to say (or had the motivation to write) about the previous year. Thanks for taking the time to read this!
