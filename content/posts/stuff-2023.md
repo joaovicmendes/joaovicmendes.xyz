@@ -4,7 +4,7 @@ date: 2023-12-18T16:25:23-03:00
 draft: false
 ---
 
-This is a recap of stuff I read, played, watched, and studied during the year 2023. Under each section, there will be a small summary of my favorite stuff in that category. The [`Programming`](#programming) section lists some of the technical material I've used this year. The [`Entertainment`](#Entertainment) sections lists other stuff.
+This is a recap of stuff I read, watched, and studied during the year 2023.
 
 # Programming
 ## Books
@@ -24,10 +24,10 @@ This year I finally started to learn about Rust. I like how Rust makes you think
 
 I also wanted to highlight some other written material that was very insightful during this last year.
 
-- `Putting the “You” in CPU` ([link here](https://cpu.land/))
-- `fasterthanli.me` ([link here](https://fasterthanli.me/))
-- `The Register Spill` ([link here](https://registerspill.thorstenball.com/))
-- `mcyoung.xyz` ([link here](https://mcyoung.xyz/))
+- [Putting the “You” in CPU](https://cpu.land/)
+- [fasterthanli.me](https://fasterthanli.me/)
+- [The Register Spill](https://registerspill.thorstenball.com/)
+- [mcyoung.xyz](https://mcyoung.xyz/)
 
 ## Projects
 
@@ -42,5 +42,3 @@ There are two new languages I want to learn about: Go and Scala. From what I've 
 I also want to learn a build system. Probably Basel, to use some of what I've learned in my job. Understanding gRPC more deeply would also be very cool. I would like to learn either some iOS development or React Native. I'm not promising to dive deep into any of these, but I might do an API using Go + gRPC + Bazel (maybe add a mobile client to it).
 
 Thats all I had to say (or had the motivation to write) about the previous year. Thanks for taking the time to read this!
-
-# Entertainment
