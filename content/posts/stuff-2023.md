@@ -1,7 +1,7 @@
 ---
 title: "Stuff 2023"
 date: 2023-12-18T16:25:23-03:00
-draft: false
+draft: true
 ---
 
 This is a recap of stuff I read, watched, and studied during the year 2023.
