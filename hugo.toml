@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = 'joaovicmendes'
 theme = 'PaperMod'
 sectionPagesMenu = 'main'
+
+[params.homeInfoParams]
+title = "João Victor Mendes Freire"
+content = "Software Engineer"
