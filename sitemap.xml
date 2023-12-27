@@ -2,21 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joaovicmendes.xyz/</loc>
-    <lastmod>2023-12-18T16:25:23-03:00</lastmod>
-  </url><url>
-    <loc>https://joaovicmendes.xyz/posts/</loc>
-    <lastmod>2023-12-18T16:25:23-03:00</lastmod>
-  </url><url>
-    <loc>https://joaovicmendes.xyz/posts/stuff-2023/</loc>
-    <lastmod>2023-12-18T16:25:23-03:00</lastmod>
-  </url><url>
-    <loc>https://joaovicmendes.xyz/posts/hello-world/</loc>
-    <lastmod>2023-06-19T12:17:32-03:00</lastmod>
-  </url><url>
-    <loc>https://joaovicmendes.xyz/about/</loc>
-  </url><url>
     <loc>https://joaovicmendes.xyz/categories/</loc>
+  </url><url>
+    <loc>https://joaovicmendes.xyz/</loc>
+  </url><url>
+    <loc>https://joaovicmendes.xyz/</loc>
   </url><url>
     <loc>https://joaovicmendes.xyz/tags/</loc>
   </url>

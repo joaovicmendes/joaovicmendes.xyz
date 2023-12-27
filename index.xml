@@ -5,38 +5,15 @@
     <link>https://joaovicmendes.xyz/</link>
     <description>Recent content on joaovicmendes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2023 16:25:23 -0300</lastBuildDate><atom:link href="https://joaovicmendes.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://joaovicmendes.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Stuff 2023</title>
-      <link>https://joaovicmendes.xyz/posts/stuff-2023/</link>
-      <pubDate>Mon, 18 Dec 2023 16:25:23 -0300</pubDate>
-      
-      <guid>https://joaovicmendes.xyz/posts/stuff-2023/</guid>
-      <description>This is a recap of stuff I read, watched, and studied during the year 2023.
-Programming Books Code Complete, by Steve McConnell Design Patterns, by Erich Gamma, Grady Booch, Richard Helm, Ralph Johnson, John Vlissides The Rust Programming Language, by Steve Klabnik and Carol Nichols Zero to Production in Rust, by Luca Palmieri This year I finally started to learn about Rust. I like how Rust makes you think about abstractions and forces you to try and write better code (I feel guilty when I slap a .</description>
-    </item>
-    
-    <item>
-      <title>Hello, World!</title>
-      <link>https://joaovicmendes.xyz/posts/hello-world/</link>
-      <pubDate>Mon, 19 Jun 2023 12:17:32 -0300</pubDate>
-      
-      <guid>https://joaovicmendes.xyz/posts/hello-world/</guid>
-      <description>This is the first post on my personal portfolio/website/blog/not sure yet what this will be!
-tl;dr: I&amp;rsquo;m a software engineer passionate about technology. I&amp;rsquo;ve created this blog to post some info about me and to write about projects, guides, and suggestions. I might write some opinions once in a while.
-Consider reading a bit more about me.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://joaovicmendes.xyz/about/</link>
+      <title>Olá! Hello!</title>
+      <link>https://joaovicmendes.xyz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://joaovicmendes.xyz/about/</guid>
-      <description>Bio I&amp;rsquo;m João Victor, a Brazilian programmer with a Computer Science degree from Universidade Federal de São Carlos, UFSCar. I currently work as a Software Engineer at Google.
-During my professional career I&amp;rsquo;ve dabbled in a variety of languages and technologies. Most of my work has been in the Android operating system (using Java and Kotlin) and back-end development (Java, Kotlin, TypeScript, C++).
-I have touched front-end code (JS, React) and worked a bit with data analysis (Python, Colab).</description>
+      <guid>https://joaovicmendes.xyz/</guid>
+      <description>Bio I&amp;rsquo;m João Victor, a programmer with a Computer Science degree from Universidade Federal de São Carlos. Currently working as a Software Engineer at Google.
+During my professional career I&amp;rsquo;ve dabbled in a variety of languages and technologies. Most of my recent work has been in the Android OS and some server side development. Every once in a while I touch front-end code, work a bit with data analysis, and create some metric queries and dashboards.</description>
     </item>
     
   </channel>
