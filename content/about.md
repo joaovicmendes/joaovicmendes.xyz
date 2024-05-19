@@ -1,5 +1,5 @@
 ---
-title: "Olá! Hello!"
+title: "Olá! Hello! いらしゃい!"
 url: "/"
 # menu: main
 ---
