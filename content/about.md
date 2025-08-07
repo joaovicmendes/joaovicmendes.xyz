@@ -17,6 +17,6 @@ The languages I'm more comfortable with, roughly in order, are: Kotlin, Java, TS
 If you want to get in touch with me, feel free to use any of the below:
 
 - [BlueSky](https://bsky.app/profile/joaovicmendes.xyz)
-- [joao at oaoj dot xyz]
 - [GitHub](https://github.com/joaovicmendes)
+- joao at oaoj dot xyz
 
