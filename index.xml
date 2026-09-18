@@ -7,14 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://joaovicmendes.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Olá! Hello! いらしゃい!</title>
+      <title>Olá. Hello. こんにち.</title>
       <link>https://joaovicmendes.xyz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joaovicmendes.xyz/</guid>
-      <description>Bio I&amp;rsquo;m João Victor, a programmer with a Computer Science degree from Universidade Federal de São Carlos. Currently working as a Software Engineer at Google.
-During my professional career I&amp;rsquo;ve dabbled in a variety of languages and technologies. Most of my recent work has been in the Android OS and server side development.
-The languages I&amp;rsquo;m more comfortable with, roughly in order, are: Kotlin, Java, TS/JS, C/C++, Rust, Python.</description>
+      <description>Bio I&amp;rsquo;m João Victor, a software engineer at Google. I have a Computer Science degree from Universidade Federal de São Carlos.
+During my professional career I&amp;rsquo;ve dabbled in a variety of languages and technologies. Most of my recent professional work has been creating new Supervision APIs in the Android Open Source Project. I also have extensive experience creating back-end services, some light UI work using Google internal frameworks and creating a new version of Family Link using Flutter.</description>
     </item>
     
   </channel>
